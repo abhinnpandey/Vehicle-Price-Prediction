@@ -1,2 +1,2 @@
 # Vehicle-Price-Prediction
-This project analysis different machine learning algorithms for vehicle price predictioon
+This project does analysis of different machine learning algorithms for vehicle price predictioon
