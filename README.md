@@ -19,7 +19,7 @@ Over 10000 used cars scraped with Scrapy from Ebay-Kleinanzeigen. Fields of data
 This Repository contains a detailed analysis of Voice dataset
 
 NOTE: 
-This repositories dataset in zip format can be downloaded from [here](https://github.com/abhinnpandey/Vehicle-Price-Prediction/blob/master/vehicle%20price%20prediction/autos_small.csv)
+This repositories dataset  can be downloaded from [here](https://github.com/abhinnpandey/Vehicle-Price-Prediction/blob/master/vehicle%20price%20prediction/autos_small.csv)
 
 
 
