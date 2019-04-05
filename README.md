@@ -24,5 +24,5 @@ This repositories dataset in zip format can be downloaded from [here](https://gi
 
 
 ````
-To use it download it, unzip and copy .csv file in same folder as jupyter notebook 
+To use it download it and copy .csv file in same folder as jupyter notebook 
 ````
