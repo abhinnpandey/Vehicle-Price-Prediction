@@ -3,7 +3,7 @@
 
 Over 10000 used cars scraped with Scrapy from Ebay-Kleinanzeigen. Fields of dataset are included: [autos_small.csv](https://github.com/abhinnpandey/Vehicle-Price-Prediction/blob/master/vehicle%20price%20prediction/autos_small.csv)
 
-**The problem is to determine price of used cars.** In this project you will discover how you can predict the sentiment of movie reviews as either positive or negative in Python.
+**The problem is to determine price of used cars.** 
 
 ## Implimentation Details
 
